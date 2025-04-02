@@ -152,7 +152,7 @@ Your project is now successfully uploaded! 🚀
 
 ## **11. Contribution & Support**  
 
-👨‍💻 **Developed by**: Your Name  
+👨‍💻 **Developed by**: MITHUN
 
 🤝 **How to Contribute?**  
 1. Fork the repository.  
